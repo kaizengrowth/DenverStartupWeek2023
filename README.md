@@ -34,9 +34,13 @@
 
 <br/>
 
-6. You will be asked to "Configure Project" with your OpenAI_API_Key. For now, just type in the following string in the input box called "Value (Will Be Encrypted)": "temporarystring123", and click on the "Deploy" button.
-    * NOTE: You can type in any random string you wish. Your actual key will be entered later into the <monospace> .env </monospace> file in your repository.
-    * The Deploy process will take some time to run through the following steps: Building, Deployment Summary, Running Checks, and Assigning Domains. No need to worry -- just let this process run on the side!
+6. You will be asked to "Configure Project" with your OpenAI_API_Key.
+
+For now, just type in the following string in the input box called "Value (Will Be Encrypted)": `"temporarystring123"`, and click on the "Deploy" button.
+
+    * **NOTE:** You can type in any random string you wish. Your actual key will be entered later into the `.env` file in your repository.
+
+    * The Deploy process will take a little time to run.
 
 <br/>
 
