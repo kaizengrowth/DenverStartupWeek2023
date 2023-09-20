@@ -12,6 +12,8 @@
     * Once you've created your account, in your [Vercel Dashboard](https://vercel.com/new), import your git repositories by clicking on "Import." Under Importing Git Repository, select "Add Github Account." This will open up a new "Install Vercel" window in Github.com. Click on the green "Install" button to link your Github account to Vercel.
 <br/>
 
+![Import Github Account to Vercel](./images/1_AddGithubAccount.png)
+
 3. Sign up for an account on [OpenAI](https://platform.openai.com/signup?launch). Create an API key for your account [here](https://platform.openai.com/account/api-keys). All new users get free $5 worth of tokens to use the OpenAI API. This is more than sufficient for powering our project.
 <br/>
 
