@@ -33,3 +33,20 @@
 ![Deploy AI Twitter Bio Generator template](./images/2_DeployVercelTemplate.png)
 
 <br/>
+
+6. You will be asked to "Configure Project" with your OpenAI_API_Key. For now, just type in the following string in the input box called "Value (Will Be Encrypted)": "temporarystring123", and click on the "Deploy" button.
+    * NOTE: You can type in any random string you wish. Your actual key will be entered later into the <monospace> .env </monospace> file in your repository.
+    * The Deploy process will take some time to run through the following steps: Building, Deployment Summary, Running Checks, and Assigning Domains. No need to worry -- just let this process run on the side!
+
+<br/>
+
+7. When you're done with deployment, you'll see a page that says "Congratulations! You just deployed a new Project to Vercel." Click on the button to "Continue to Dashboard."
+
+<br/>
+
+8. In your Project Dashboard, you will see the name of the project, and three buttons to the right of the name:
+    * The "Git Repository" button will lead you to where your code is stored on GitHub.
+    * The "Visit" button will lead you to where your application is currently deployed onto the cloud for everyone in the world to see.
+    * Click on the "Git Repository" button to open up your code repository in GitHub. Also "Visit" your new application!
+
+![Open up your project in GitHub and online in the Vercel cloud](./images/3_ProjectDashboard.png)
