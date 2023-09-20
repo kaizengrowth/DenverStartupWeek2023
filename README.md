@@ -52,3 +52,16 @@ For now, just type in the following string in the input box called "Value (Will 
     * Click on the "Git Repository" button to open up your code repository in GitHub. Also "Visit" your new application!
 
 ![Open up your project in GitHub and online in the Vercel cloud](./images/3_ProjectDashboard.png)
+
+<br/>
+
+## Part 3. Edit the Code on GitHub
+If you are familiar with using cloning your Github repository and editing your code locally with VSCode, and if you already have your local development environment set up for NodeJS, then please go through the following steps in your local computer.
+
+Otherwise, for the sake of simplicity, we will make the following edits directly inside of GitHub using the built-in "Github.dev" editor. See example below:
+
+<br/>
+
+![Edit your code directly in GitHub](./images/4_EditinGitHub.png)
+
+<br/>
