@@ -30,6 +30,6 @@
     * Click on the white [Deploy](https://vercel.com/new/clone?demo-description=Generate%20your%20Twitter%20bio%20with%20OpenAI%20GPT-3%20API%20(text-davinci-003)%20and%20Vercel%20Edge%20Functions%20with%20streaming.&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F2I7NoGPw25Em00dQYxMdJg%2Fba571bc9c9334611ebe4c67973029c26%2Fscreenshot.png&demo-title=AI%20Twitter%20Bio%20Generator&demo-url=https%3A%2F%2Fwww.twitterbio.io&env=OPENAI_API_KEY&envDescription=Get%20your%20API%20key%20from%20Openai.com&envLink=https%3A%2F%2Fbeta.openai.com%2Faccount%2Fapi-keys&from=templates&project-name=AI%20Twitter%20Bio%20Generator&repository-name=twitter-bio&repository-url=https%3A%2F%2Fgithub.com%2FNutlope%2Ftwitterbio&skippable-integrations=1) button.
     * You'll see a page that says "You're almost done." In the box on the right, under the heading "Create Git Repository", select your GitHub username and name this repository "startup-week-demo".
 
-![Deploy AI Twitter Bio Generator template](./images/3_DeployTemplate.png)
+![Deploy AI Twitter Bio Generator template](./images/2_CreateGitRepo.png)
 
 <br/>
