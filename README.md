@@ -37,10 +37,8 @@
 6. You will be asked to "Configure Project" with your OpenAI_API_Key.
 
 For now, just type in the following string in the input box called "Value (Will Be Encrypted)": `"temporarystring123"`, and click on the "Deploy" button.
-
-    * **NOTE:** You can type in any random string you wish. Your actual key will be entered later into the `.env` file in your repository.
-
-    * The Deploy process will take a little time to run.
+    * **NOTE:** You can type in any random string you wish. Your actual key will be entered later into the '.env' file in your repository.
+    * The deployment process will take a little time to run. No worries! Vercel handles a lot of the difficult parts for you, so this part is a little like magic.
 
 <br/>
 
