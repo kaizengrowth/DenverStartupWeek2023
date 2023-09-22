@@ -22,6 +22,8 @@ OPENAI_API_KEY=
 
 Voila! Now if you run this site locally, you should be able to make calls to the OpenAI API, and generate Twitter bios.
 
+<br/>
+
 ## Part 5. Modify Page.tsx
 
 Now, navigate to `app/page.tsx` in your Next.js folder structure. This is where the code that holds the [View](https://www.geeksforgeeks.org/mvc-design-pattern/) of your application is located.
@@ -41,6 +43,8 @@ Also, change the text above the dropdown to "Choose your celebrity chef", and mo
 
 Further below on the page, where it says "Generate your bio" and "Your generated bios," change the text to "Generate your recipe" and "Your generated recipes."
 
+<br/>
+
 ## Part 6. Modify the DropDown.tsx Component
 
 Navigate to the `components/DropDown.tsx` file inside of your application directory.
@@ -49,6 +53,7 @@ Replace the VibeTypes with the names of your favorite chefs:
 
 ![Replace Vibes with Chefs](./images/7_VibeToChef.png)
 
+<br/>
 
 ## Part 7. Modify the Header.tsx Component
 
@@ -58,6 +63,7 @@ Change the h1 header from "twitterbio.io" to a new name for your application, li
 
 ![Change the Page Heading](./images/8_ChangeHeading.png)
 
+<br/>
 
 ## Part 8. Modify Default Text in Page.tsx
 
@@ -65,6 +71,7 @@ Go back to `app/pages.tsx` and set the default Vibe (chef) to the name of your f
 
 ![Modify default data](./images/9_ModifyDefaultData.png)
 
+<br/>
 
 ## Part 9. Modify the Prompt in Route.tsx
 
@@ -75,6 +82,8 @@ You can change the existing prompt to something like this:
 ![Modify the prompt](./images/11_NewPrompt.png)
 
 After you save, you should now be able to use your form to submit ingredients to the OpenAI API, and have it return a step-by-step recipe in the voice of your favorite chef!
+
+<br/>
 
 ## Part 10. Styling Your App
 
@@ -97,7 +106,7 @@ Bam! (or should we say "Bork! Bork! Borked!?")
 
 ![Bam!](./images/13_Tweaks.png)
 
-
+<br/>
 
 ### Part 11. Debugging Your App
 
