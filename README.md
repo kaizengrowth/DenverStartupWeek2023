@@ -65,3 +65,12 @@ Otherwise, for the sake of simplicity, we will make the following edits directly
 ![Edit your code directly in GitHub](./images/4_EditinGitHub.png)
 
 <br/>
+
+
+---------
+
+### Denver Startup Week: Post-Workshop Instructions (9/23/23)
+
+For continued steps on how to modify your recipe app, go here:
+
+[Code Instructions](./CodeInstructions.md)

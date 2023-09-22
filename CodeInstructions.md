@@ -64,3 +64,31 @@ Change the h1 header from "twitterbio.io" to a new name for your application, li
 Go back to `app/pages.tsx` and set the default Vibe (chef) to the name of your favorite chef, something like this:
 
 ![Modify default data](./images/9_ModifyDefaultData.png)
+
+
+## Part 9. Modify the Prompt in Route.tsx
+
+Now that we're done modifying the template, we can move on to modify the prompt in `app/api/route.ts`
+
+You can change the existing prompt to something like this:
+
+![Modify the prompt](./images/11_NewPrompt.png)
+
+After you save, you should now be able to use your form to submit ingredients to the OpenAI API, and have it return a step-by-step recipe in the voice of your favorite chef!
+
+## Part 10. Styling Your App
+
+Now let's spice up our app a bit, and give it some custom styling to match the theme of our new prompt.
+
+Go to `/styles/globals.css` and change the background color of your application with just a tiny bit of CSS code, like this:
+
+![Modify the background color](./images/12_ModifyCSS.png)
+
+Better yet, you can use a nice background image like [this one](https://img.freepik.com/free-photo/fresh-colourful-ingredients-mexican-cuisine_23-2148254294.jpg?w=1800&t=st=1694986481~exp=1694987081~hmac=d63a0602c22d21d802aa1639bb58d1e4866fa36943ff123d7928dfb13d04f57d) by adding the following CSS properties:
+
+```CSS
+body {
+  background-image: url('https://img.freepik.com/free-photo/fresh-colourful-ingredients-mexican-cuisine_23-2148254294.jpg?w=1800&t=st=1694986481~exp=1694987081~hmac=d63a0602c22d21d802aa1639bb58d1e4866fa36943ff123d7928dfb13d04f57d');
+  background-size: cover;
+}
+```
