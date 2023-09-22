@@ -92,3 +92,26 @@ body {
   background-size: cover;
 }
 ```
+
+Bam! (or should we say "Bork! Bork! Borked!?")
+
+![Bam!](./images/13_Tweaks.png)
+
+
+
+### Part 11. Debugging Your App
+
+Now your app looks almost ready! Except, the returned prompt is a little bit weird! Why is the formatting a little bit borked? Why does the first part of your output get messed up?
+
+Try figuring this out by asking ChatGPT. Can you debug the following issues?
+
+1. Why does the generatedBios output get cut off and only show a spliced second half?
+
+2. Why does the text fall outside of the boundaries of the box? How can you fix that?
+
+3. Why is there an apparent off-by-one error in the output response, i.e. you always get the response that lags by one submission?
+
+
+Try to figure out these puzzles yourself. If you get stuck and need the solution, you can refer to my solutions [here](./solutions/)
+
+I'll provide an explanation for how to solve these bugs, as well as an explanation of how the Vercel AI library for chatbots works, in a following post!
